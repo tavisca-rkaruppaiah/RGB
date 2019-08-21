@@ -1,0 +1,11 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\bin\Debug\netcoreapp2.1\RGB.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\bin\Debug\netcoreapp2.1\RGB.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\bin\Debug\netcoreapp2.1\RGB.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\bin\Debug\netcoreapp2.1\RGB.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\bin\Debug\netcoreapp2.1\RGB.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\obj\Debug\netcoreapp2.1\RGB.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\obj\Debug\netcoreapp2.1\RGB.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\obj\Debug\netcoreapp2.1\RGB.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\obj\Debug\netcoreapp2.1\RGB.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\obj\Debug\netcoreapp2.1\RGB.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\CodeJam\RGB\RGB\obj\Debug\netcoreapp2.1\RGB.pdb
